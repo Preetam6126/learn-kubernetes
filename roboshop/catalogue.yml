@@ -4,5 +4,5 @@ metadata:
   name: catalogue
 spec:
   containers:
-    - name: catalogue
+    - name: frontend
       image: 598125288280.dkr.ecr.us-east-1.amazonaws.com/catalogue:2.0.0

@@ -4,5 +4,5 @@ metadata:
   name: user
 spec:
   containers:
-    - name: user
+    - name: frontend
       image: 598125288280.dkr.ecr.us-east-1.amazonaws.com/user:2.0.0
